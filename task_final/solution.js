@@ -49,7 +49,6 @@ function sendRequest(name, phone, address {street, house, entrance, floor, flat}
             title: goods[1].title; 
             count: goods[i].count
         });
-       
         
     }
 
